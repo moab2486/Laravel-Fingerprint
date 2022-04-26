@@ -28,7 +28,11 @@
             "GPBMetadata\\": "GPBMetadata/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/"
-        }
+        },
+
+        "files":[
+
+        ]
     },
     "autoload-dev": {
         "psr-4": {
